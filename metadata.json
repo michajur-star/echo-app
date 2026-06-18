@@ -1,0 +1,6 @@
+{
+  "name": "Echo - AI-Driven Soundscapes",
+  "description": "Echo is an real-time audio intelligence soundscape application that tracks biometric pulse zones and heart rates on-the-fly to generate bespoke audio paths and breathing exercises powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
